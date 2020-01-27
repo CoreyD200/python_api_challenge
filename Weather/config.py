@@ -1,1 +1,0 @@
-APIKEY = 'afa48868f123bfcd2ee9acefcf6c6d12'
